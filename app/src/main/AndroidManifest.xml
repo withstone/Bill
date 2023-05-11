@@ -9,7 +9,7 @@
         android:theme="@style/Theme.Test1">
         <activity
             android:name="com.example.bill.BillAddActivity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name="com.example.bill.BillPagerActivity"
             android:exported="true">
